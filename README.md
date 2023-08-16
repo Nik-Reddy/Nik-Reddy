@@ -36,4 +36,4 @@ I'm a passionate **Data Scientist** with extensive experience in Machine Learnin
 - 📞 (571) 352 – 0572
 
 ### ⚡ Fun Fact
-With over 4 years of experience at cPacket Networks, Tata Consultancy Services, and Tata Projects Limited, I've honed my skills as a seasoned data geek. I love exploring cutting-edge technologies and methodologies!
+With over 4 years of industry experience at cPacket Networks, Tata Consultancy Services, and Tata Projects Limited, I've honed my skills as a seasoned data geek. I love exploring cutting-edge technologies and methodologies!
