@@ -4,7 +4,7 @@
 I'm a passionate **Data Scientist** with extensive experience in Machine Learning, Big Data, and Cloud technologies. With a strong educational background and work experience, I strive to make a significant impact through data-driven insights.
 
 ### 🎓 Education
-- **Master's Degree** in Information Systems Management, Business Intelligence and Data Analytics, **Carnegie Mellon University**
+- **Master's Degree** in Information Systems Management, Business Intelligence, and Data Analytics, **Carnegie Mellon University**
 - **Bachelor's Degree** in Electronics and Communication Engineering, **Jawahar Lal Nehru Technological University**
 
 ### 🛠️ Skills & Expertise
@@ -15,7 +15,8 @@ I'm a passionate **Data Scientist** with extensive experience in Machine Learnin
 
 ### 🏢 Work Experience
 - **Data Scientist** at cPacket Networks, Pittsburgh, PA (May 2023 – August 2023)
-- **Systems Engineer** at Tata Consultancy Services – Digital, Hyderabad, India (March 2020 – July 2022)
+- **Systems Engineer** at Tata Consultancy Services – Digital, Hyderabad, India (February 2019 – July 2022)
+- **Machine Learning Intern** at Tata Projects Limited, Hyderabad, India 
 
 ### 🏆 Certifications
 - Registered Scrum Master
