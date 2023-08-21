@@ -1,39 +1,57 @@
-# Hi there, I'm Nikhil R Pallepati 👋
+<h1>Hi there, I'm Nikhil R Pallepati 👋</h1>
 
-## About Me 🚀
-I'm a passionate **Data Scientist** with extensive experience in Machine Learning, Big Data, and Cloud technologies. With a strong educational background and work experience, I strive to make a significant impact through data-driven insights.
+<h2>About Me 🚀</h2>
+<p>I'm a passionate <strong>Data Scientist</strong> with extensive experience in Machine Learning, Big Data, and Cloud technologies...</p>
 
-### 🎓 Education
-- **Master's Degree** in Information Systems Management, Business Intelligence, and Data Analytics, **Carnegie Mellon University**
-- **Bachelor's Degree** in Electronics and Communication Engineering, **Jawahar Lal Nehru Technological University**
+<h3>🎓 Education</h3>
+<ul style="list-style-type: none;">
+  <li><strong>Master's Degree</strong> in Information Systems Management, Business Intelligence, and Data Analytics, <strong>Carnegie Mellon University</strong></li>
+  <li><strong>Bachelor's Degree</strong> in Electronics and Communication Engineering, <strong>Jawahar Lal Nehru Technological University</strong></li>
+</ul>
 
-### 🛠️ Skills & Expertise
-- **Programming Languages:** Python, SQL, Java, R
-- **Machine Learning:** Regression, Clustering, Classification, Neural Networks
-- **Databases and Tools:** MySQL, MongoDB, Neo4j, Tableau, Git, Docker
-- **Big Data and Cloud:** Spark, Hive, Pig, Kafka, AWS, Azure, GCP
+<h3>🛠️ Skills & Expertise</h3>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td><strong>Programming Languages:</strong> Python, SQL, Java, R</td>
+    <td><strong>Machine Learning:</strong> Regression, Clustering, Classification, Neural Networks</td>
+  </tr>
+  <tr>
+    <td><strong>Databases and Tools:</strong> MySQL, MongoDB, Neo4j, Tableau, Git, Docker</td>
+    <td><strong>Big Data and Cloud:</strong> Spark, Hive, Pig, Kafka, AWS, Azure, GCP</td>
+  </tr>
+</table>
 
-### 🏢 Work Experience
-- **Data Scientist** at cPacket Networks, Pittsburgh, PA (May 2023 – August 2023)
-- **Systems Engineer** at Tata Consultancy Services – Digital, Hyderabad, India (February 2019 – July 2022)
-- **Machine Learning Intern** at Tata Projects Limited, Hyderabad, India 
+<h3>🏢 Work Experience</h3>
+<ul style="list-style-type: none;">
+  <li><strong>Data Scientist</strong> at cPacket Networks, Pittsburgh, PA (May 2023 – August 2023)</li>
+  <li><strong>Systems Engineer</strong> at Tata Consultancy Services – Digital, Hyderabad, India (February 2019 – July 2022)</li>
+  <li><strong>Machine Learning Intern</strong> at Tata Projects Limited, Hyderabad, India</li>
+</ul>
 
-### 🏆 Certifications
-- Registered Scrum Master
-- Getting Started with ML (AWS)
-- Deep Learning Specialization by deeplearning.ai
+<h3>🏆 Certifications</h3>
+<ul style="list-style-type: none;">
+  <li>Registered Scrum Master</li>
+  <li>Getting Started with ML (AWS)</li>
+  <li>Deep Learning Specialization by deeplearning.ai</li>
+</ul>
 
-### 📈 Notable Projects
-- **Peer-to-Peer Lending Investment Strategy Analysis**
-- **Overcoming Biases in Toxicity Models for Inclusive Conversation**
-- **Movie Recommendation System**
 
-### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/nikhil-reddy-pallepati/)
-- [GitHub](https://github.com/Nik-Reddy)
-- [Kaggle](https://www.kaggle.com/nikhilreddyp29)
-- 📧 nikhilreddyp29@gmail.com
-- 📞 (571) 352 – 0572
+<h3>📈 Notable Projects</h3>
+<ul style="list-style-type: none;">
+  <li><em>Peer-to-Peer Lending Investment Strategy Analysis</em></li>
+  <li><em>Overcoming Biases in Toxicity Models for Inclusive Conversation</em></li>
+  <li><em>Movie Recommendation System</em></li>
+</ul>
 
-### ⚡ Fun Fact
-With over 4 years of industry experience at cPacket Networks, Tata Consultancy Services, and Tata Projects Limited, I've honed my skills as a seasoned data geek. I love exploring cutting-edge technologies and methodologies!
+
+<h3>📫 How to Reach Me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/nikhil-reddy-pallepati/">LinkedIn</a> |
+  <a href="https://github.com/Nik-Reddy">GitHub</a> |
+  <a href="https://www.kaggle.com/nikhilreddyp29">Kaggle</a> |
+  📧 nikhilreddyp29@gmail.com |
+  📞 (571) 352 – 0572
+</p>
+
+<h3>⚡ Fun Fact</h3>
+<p>With over 4 years of industry experience at cPacket Networks, Tata Consultancy Services, and Tata Projects Limited, I've honed my skills as a seasoned data geek. I love exploring cutting-edge technologies and methodologies!</p>
