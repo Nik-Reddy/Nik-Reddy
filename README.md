@@ -1,5 +1,7 @@
 <h1>Hi there, I'm Nikhil R Pallepati 👋</h1>
 
+<h2><a href="https://nikhilreddypallepati-portfolio.com" style="text-decoration: none; color: #000;">🎨 Check out my Portfolio!</a></h2>
+
 <h2>About Me 🚀</h2>
 <p>I'm a passionate <strong>Data Scientist</strong> with extensive experience in Machine Learning, Big Data, and Cloud technologies...</p>
 
