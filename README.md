@@ -47,6 +47,7 @@
 <h3>📫 How to Reach Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/nikhil-reddy-pallepati/">LinkedIn</a> |
+  <a href="https://nik-reddy.github.io/">Portfolio</a> |
   <a href="https://github.com/Nik-Reddy">GitHub</a> |
   <a href="https://www.kaggle.com/nikhilreddyp29">Kaggle</a> |
   📧 nikhilreddyp29@gmail.com |
