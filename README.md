@@ -3,7 +3,7 @@
 <h2><a href="https://nik-reddy.github.io" style="text-decoration: none; color: #000;">🎨 Check out my Portfolio!</a></h2>
 
 <h2>About Me 🚀</h2>
-<p>I'm a passionate <strong>Data Scientist</strong> with extensive experience in Machine Learning, Big Data, and Cloud technologies...</p>
+<p>I'm a passionate <strong>Machie Learning Engineer, Data Scientist</strong> with extensive experience in Machine Learning, Big Data, and Cloud technologies...</p>
 
 <h3>🎓 Education</h3>
 <ul style="list-style-type: none;">
