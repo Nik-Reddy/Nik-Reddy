@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik-reddy" alt="nik-reddy" /></a> </p>
 
 <h2>About Me 🚀</h2>
-<p>I'm a passionate <strong>Machine Learning Engineer, Data Scientist</strong> with extensive experience in Machine Learning, Big Data, and Cloud technologies...</p>
+<p>I'm a passionate <strong>Machine Learning Engineer, and Data Scientist</strong> with extensive experience in Machine Learning, Big Data, and Cloud technologies...</p>
 
 <h3>🎓 Education</h3>
 <ul>
