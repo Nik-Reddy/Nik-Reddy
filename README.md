@@ -19,7 +19,13 @@
 
 ---
 
-<h2>GitHub Stats</h2>
+<h2>GitHub Analytics</h2>
+
+<!-- Radar chart: Commits, PRs, Issues, Reviews, Stars -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nik-Reddy&theme=github" alt="Stats Radar" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nik-Reddy&theme=github&utcOffset=-5" alt="Productive Time" height="200" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nik-Reddy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
@@ -27,7 +33,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nik-Reddy&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nik-Reddy&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Full-width contribution profile -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nik-Reddy&theme=github" alt="Contribution Details" width="100%" />
 </p>
 
 ---
@@ -128,12 +139,12 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nik-reddy&theme=flat&no-frame=true&column=6&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Nik-Reddy&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies" width="100%" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nik-Reddy&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nik-Reddy&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </p>
