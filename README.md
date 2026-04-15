@@ -1,131 +1,85 @@
-<h1 align="center">Hi there, I'm Nikhil R Pallepati 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://nik-reddy.github.io"><strong>🎨 Portfolio</strong></a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/nikhil-reddy-pallepati/"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
-  <a href="https://www.kaggle.com/nikhilreddyp29"><strong>Kaggle</strong></a> &nbsp;|&nbsp;
-  <strong>nikhilreddyp29@gmail.com</strong>
-</p>
+# Nikhil Reddy
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nik-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+**ML Engineer · Open-Source Contributor · GenAI Observability**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilreddy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nik-Reddy)
+
+</div>
 
 ---
 
-<h2>About Me</h2>
+### About Me
 
-<p>Machine Learning Engineer with 4+ years building production ML systems at PNC Financial Services, cPacket Networks, and Tata Consultancy Services. Carnegie Mellon MSISM graduate. Active open-source contributor to <strong>PyTorch</strong>, <strong>OpenTelemetry</strong>, and <strong>Semantic Conventions</strong>.</p>
+I'm a Machine Learning professional focused on the intersection of **AI/ML systems** and **production observability**. I contribute to open-source projects that define how AI applications are monitored, debugged, and governed at scale.
 
----
-
-<h2>GitHub Analytics</h2>
-
-<!-- Radar chart: Commits, PRs, Issues, Reviews, Stars -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nik-Reddy&theme=github" alt="Stats Radar" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nik-Reddy&theme=github&utcOffset=-5" alt="Productive Time" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nik-Reddy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nik-Reddy&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nik-Reddy&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- Full-width contribution profile -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nik-Reddy&theme=github" alt="Contribution Details" width="100%" />
-</p>
+Currently contributing to:
+- **OpenTelemetry** — GenAI instrumentation standards and Python SDK
+- **PyTorch** — Performance optimizations and observability integration
+- **OpenAI & Anthropic SDKs** — Agent framework improvements and safety features
 
 ---
 
-<h2>Open Source Contributions</h2>
+### Open-Source Contributions
 
 <table>
-  <tr>
-    <th>Project</th>
-    <th>PRs</th>
-    <th>Area</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/pytorch/pytorch">PyTorch</a></td>
-    <td><a href="https://github.com/pytorch/pytorch/pull/180408">#180408</a> - torch.eye CPU performance fix</td>
-    <td>Core Performance</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/open-telemetry/opentelemetry-python-contrib">OTel Python Contrib</a></td>
-    <td>
-      <a href="https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4415">#4415</a> TTFT metric,
-      <a href="https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4416">#4416</a> Structured outputs,
-      <a href="https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4417">#4417</a> Content capture fix,
-      <a href="https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4418">#4418</a> Cohere chat,
-      <a href="https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4419">#4419</a> vLLM instrumentation,
-      <a href="https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4421">#4421</a> Cohere streaming
-    </td>
-    <td>GenAI Observability</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/open-telemetry/opentelemetry-python">OTel Python</a></td>
-    <td><a href="https://github.com/open-telemetry/opentelemetry-python/pull/5080">#5080</a> - OpenTracing shim SpanKind fix</td>
-    <td>Tracing Shim</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/open-telemetry/semantic-conventions">Semantic Conventions</a></td>
-    <td><a href="https://github.com/open-telemetry/semantic-conventions/pull/3624">#3624</a> - Token cache and reasoning attributes</td>
-    <td>GenAI Spec</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/open-telemetry/opentelemetry-dotnet">OTel .NET</a></td>
-    <td>Code review on <a href="https://github.com/open-telemetry/opentelemetry-dotnet/pull/7033">#7033</a> - identified trailing underscore bug (fix adopted)</td>
-    <td>Prometheus Exporter</td>
-  </tr>
+<tr>
+<td align="center" width="150">
+<img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" width="50" alt="OpenTelemetry"/>
+<br><strong>OpenTelemetry</strong>
+<br>
+<img src="https://img.shields.io/badge/9_PRs-blue?style=flat-square" alt="9 PRs"/>
+<img src="https://img.shields.io/badge/6_Reviews-green?style=flat-square" alt="6 Reviews"/>
+</td>
+<td align="center" width="150">
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" alt="PyTorch"/>
+<br><strong>PyTorch</strong>
+<br>
+<img src="https://img.shields.io/badge/3_PRs-blue?style=flat-square" alt="3 PRs"/>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square" alt="Anthropic"/>
+<br><strong>Anthropic</strong>
+<br>
+<img src="https://img.shields.io/badge/1_PR-blue?style=flat-square" alt="1 PR"/>
+</td>
+</tr>
 </table>
 
 ---
 
-<h2>Skills</h2>
+### Tech Stack
 
-<p>
-  <strong>ML/DL:</strong> PyTorch, TensorFlow, Hugging Face, Scikit-learn &nbsp;&bull;&nbsp;
-  <strong>Languages:</strong> Python, C++, SQL, Java &nbsp;&bull;&nbsp;
-  <strong>Data:</strong> Spark, Kafka, Pandas &nbsp;&bull;&nbsp;
-  <strong>Cloud:</strong> AWS, Azure, GCP, Databricks &nbsp;&bull;&nbsp;
-  <strong>Infra:</strong> Docker, Airflow, Git, OpenTelemetry
-</p>
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B5EA7?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h2>Experience</h2>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-<ul>
-  <li><strong>Sr. Software Engineer, Machine Learning</strong> at PNC Financial Services (Nov 2023 - Present)</li>
-  <li><strong>Machine Learning Engineer</strong> at cPacket Networks / Carnegie Mellon Capstone (May - Aug 2023)</li>
-  <li><strong>Systems Engineer (ML)</strong> at Tata Consultancy Services (Feb 2019 - Jul 2022)</li>
-</ul>
-
-<h2>Education</h2>
-
-<ul>
-  <li><strong>M.S. Information Systems Management</strong> - Carnegie Mellon University (2023)</li>
-  <li><strong>B.E. Electronics and Communication Engineering</strong> - JNTU Hyderabad (2018)</li>
-</ul>
+</div>
 
 ---
 
-<h2>Trophies</h2>
+### Focus Areas
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nik-Reddy&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies" width="100%" />
-  </a>
-</p>
+- **GenAI Observability** — Instrumentation standards for LLM platforms (OpenAI, Cohere, vLLM)
+- **ML Systems Performance** — PyTorch kernel optimizations and profiler tooling
+- **AI Safety & Governance** — Tool-use authorization patterns for agentic AI
+- **Distributed Tracing** — OpenTelemetry SDK improvements and cross-language contributions
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nik-Reddy&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</p>
+<div align="center">
+<sub>Open to collaboration on AI/ML observability and infrastructure projects.</sub>
+</div>
