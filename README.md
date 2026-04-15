@@ -89,32 +89,13 @@
 
 <h2>Skills</h2>
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Python, C++, SQL, Java, R</td>
-  </tr>
-  <tr>
-    <td><strong>ML / DL</strong></td>
-    <td>PyTorch, TensorFlow, Keras, Hugging Face, Scikit-learn, cuDNN</td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>Spark, Hive, Kafka, NumPy, Pandas</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud</strong></td>
-    <td>AWS, Azure, GCP, Databricks, KubeFlow</td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>Docker, Airflow, Jenkins, Git, OpenTelemetry</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>MySQL, MongoDB, Neo4j, PostgreSQL</td>
-  </tr>
-</table>
+<p>
+  <strong>ML/DL:</strong> PyTorch, TensorFlow, Hugging Face, Scikit-learn &nbsp;&bull;&nbsp;
+  <strong>Languages:</strong> Python, C++, SQL, Java &nbsp;&bull;&nbsp;
+  <strong>Data:</strong> Spark, Kafka, Pandas &nbsp;&bull;&nbsp;
+  <strong>Cloud:</strong> AWS, Azure, GCP, Databricks &nbsp;&bull;&nbsp;
+  <strong>Infra:</strong> Docker, Airflow, Git, OpenTelemetry
+</p>
 
 ---
 
