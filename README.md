@@ -1,85 +1,65 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Nikhil R Pallepati 👋</h1>
+<h2 align="center"><a href="https://nik-reddy.github.io" style="text-decoration: none; color: #000;">🎨 Check out my Portfolio!</a></h2>
 
-# Nikhil Reddy
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nik-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="nik-reddy" /> </p>
 
-**ML Engineer · Open-Source Contributor · GenAI Observability**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik-reddy" alt="nik-reddy" /></a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilreddy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nik-Reddy)
+<h2>About Me 🚀</h2>
+<p>I'm a passionate <strong>Machine Learning Engineer, and Data Scientist</strong> with extensive experience in Machine Learning, Big Data, and Cloud technologies...</p>
 
-</div>
+<h3>🎓 Education</h3>
+<ul>
+  <li><strong>Master's Degree</strong> in Information Systems Management, Business Intelligence, and Data Analytics, <strong>Carnegie Mellon University</strong>, Pittsburgh, PA (August 2023)</li>
+  <li><strong>Bachelor's Degree</strong> in Electronics and Communication Engineering, <strong>Jawaharlal Nehru Technological University</strong>, Hyderabad, India (April 2018)</li>
+</ul>
 
----
-
-### About Me
-
-I'm a Machine Learning professional focused on the intersection of **AI/ML systems** and **production observability**. I contribute to open-source projects that define how AI applications are monitored, debugged, and governed at scale.
-
-Currently contributing to:
-- **OpenTelemetry** — GenAI instrumentation standards and Python SDK
-- **PyTorch** — Performance optimizations and observability integration
-- **OpenAI & Anthropic SDKs** — Agent framework improvements and safety features
-
----
-
-### Open-Source Contributions
-
+<h3>🛠️ Skills & Expertise</h3>
 <table>
-<tr>
-<td align="center" width="150">
-<img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" width="50" alt="OpenTelemetry"/>
-<br><strong>OpenTelemetry</strong>
-<br>
-<img src="https://img.shields.io/badge/9_PRs-blue?style=flat-square" alt="9 PRs"/>
-<img src="https://img.shields.io/badge/6_Reviews-green?style=flat-square" alt="6 Reviews"/>
-</td>
-<td align="center" width="150">
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" alt="PyTorch"/>
-<br><strong>PyTorch</strong>
-<br>
-<img src="https://img.shields.io/badge/3_PRs-blue?style=flat-square" alt="3 PRs"/>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square" alt="Anthropic"/>
-<br><strong>Anthropic</strong>
-<br>
-<img src="https://img.shields.io/badge/1_PR-blue?style=flat-square" alt="1 PR"/>
-</td>
-</tr>
+  <tr>
+    <td><strong>Programming Languages:</strong> Python, SQL, Java, Perl, C++, R</td>
+    <td><strong>Machine Learning:</strong> Regression, Clustering, Classification, Neural Networks</td>
+  </tr>
+  <tr>
+    <td><strong>Relevant Libraries:</strong> NumPy, Pandas, Scikit-learn, SpaCy, cuDNN, NLTK, PyTorch, Tensorflow, Keras, Huggingface</td>
+    <td><strong>Big Data and Cloud:</strong> Spark, Hive, Pig, Kafka, AWS, Azure, GCP</td>
+  </tr>
+  <tr>
+    <td><strong>Databases and Tools:</strong> MySQL, MongoDB, Neo4j, Tableau, Git, Docker</td>
+    <td><strong>Other Tools:</strong> Databricks, KubeFlow, Airflow, Jenkins, Jira, Confluence</td>
+  </tr>
 </table>
 
----
+<h3>🏢 Work Experience</h3>
+<ul>
+  <li><strong>Sr. Software Engineer, Machine Learning</strong> at PNC Financial Services, Pittsburgh, PA (November 2023 – Current)</li>
+  <li><strong>Machine Learning Engineer</strong> at cPacket Networks (Capstone), Pittsburgh, PA (May 2023 – August 2023)</li>
+  <li><strong>Systems Engineer (Machine Learning)</strong> at Tata Consultancy Services – Digital, Hyderabad, India (February 2019 – July 2022)</li>
+</ul>
 
-### Tech Stack
+<h3>📈 Notable Projects</h3>
+<ul>
+  <li><em>Continuous Knowledge Expansion of Language Models</em></li>
+  <li><em>O1A-Visa CV Analysis Service (LLM in Production) Live Site</em></li>
+  <li><em>Movie Recommendations Service (ML in Production)</em></li>
+</ul>
 
-<div align="center">
+<h3>🏆 Certifications</h3>
+<ul>
+  <li>Registered Scrum Master</li>
+  <li>Getting Started with ML (AWS)</li>
+  <li>Deep Learning Specialization by deeplearning.ai</li>
+</ul>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B5EA7?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<h3>📫 How to Reach Me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/nikhil-reddy-pallepati/">LinkedIn</a> |
+  <a href="https://nik-reddy.github.io/">Portfolio</a> |
+  <a href="https://github.com/Nik-Reddy">GitHub</a> |
+  <a href="https://www.kaggle.com/nikhilreddyp29">Kaggle</a> |
+  📧 nikhilreddyp29@gmail.com |
+  📞 (571) 352 – 0572
+</p>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-</div>
-
----
-
-### Focus Areas
-
-- **GenAI Observability** — Instrumentation standards for LLM platforms (OpenAI, Cohere, vLLM)
-- **ML Systems Performance** — PyTorch kernel optimizations and profiler tooling
-- **AI Safety & Governance** — Tool-use authorization patterns for agentic AI
-- **Distributed Tracing** — OpenTelemetry SDK improvements and cross-language contributions
-
----
-
-<div align="center">
-<sub>Open to collaboration on AI/ML observability and infrastructure projects.</sub>
-</div>
+<h3>⚡ Fun Fact</h3>
+<p>With over 4 years of industry experience at PNC Financial Services, cPacket Networks, and Tata Consultancy Services, I've honed my skills as a seasoned data geek. I love exploring cutting-edge technologies and methodologies!</p>
