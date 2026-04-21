@@ -57,9 +57,8 @@
   <a href="https://nik-reddy.github.io/">Portfolio</a> |
   <a href="https://github.com/Nik-Reddy">GitHub</a> |
   <a href="https://www.kaggle.com/nikhilreddyp29">Kaggle</a> |
-  📧 nikhilreddyp29@gmail.com |
-  📞 (571) 352 – 0572
-</p>
+  📧 nikhilreddyp29@gmail.com </p>
 
 <h3>⚡ Fun Fact</h3>
 <p>With over 4 years of industry experience at PNC Financial Services, cPacket Networks, and Tata Consultancy Services, I've honed my skills as a seasoned data geek. I love exploring cutting-edge technologies and methodologies!</p>
+
