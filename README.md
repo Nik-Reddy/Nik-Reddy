@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik-reddy" alt="nik-reddy" /></a> </p>
 
+<h2 align="center">GitHub Activity Overview</h2>
+<p align="center">
+  <img src="assets/activity-overview.svg" alt="GitHub activity overview showing commits, issues, pull requests, and code reviews" />
+</p>
+
 <h2>About Me 🚀</h2>
 <p>I'm a passionate <strong>Machine Learning Engineer, and Data Scientist</strong> with extensive experience in Machine Learning, Big Data, and Cloud technologies...</p>
 
@@ -61,4 +66,3 @@
 
 <h3>⚡ Fun Fact</h3>
 <p>With over 4 years of industry experience at PNC Financial Services, cPacket Networks, and Tata Consultancy Services, I've honed my skills as a seasoned data geek. I love exploring cutting-edge technologies and methodologies!</p>
-
