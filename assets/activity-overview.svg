@@ -8,17 +8,17 @@
   </style>
   <line class="axis" x1="180" y1="38" x2="180" y2="178" />
   <line class="axis" x1="92" y1="108" x2="268" y2="108" />
-  <circle class="marker" cx="180.0" cy="101.2" r="3.4" />
-  <circle class="marker" cx="186.8" cy="108.0" r="3.4" />
-  <circle class="marker" cx="180.0" cy="138.4" r="3.4" />
-  <circle class="marker" cx="162.0" cy="108.0" r="3.4" />
+  <circle class="marker" cx="180.0" cy="101.8" r="3.4" />
+  <circle class="marker" cx="186.2" cy="108.0" r="3.4" />
+  <circle class="marker" cx="180.0" cy="137.1" r="3.4" />
+  <circle class="marker" cx="159.5" cy="108.0" r="3.4" />
   <circle class="marker" cx="180" cy="108" r="3.4" />
-  <text class="label" x="180" y="18" text-anchor="middle">11%</text>
+  <text class="label" x="180" y="18" text-anchor="middle">10%</text>
   <text class="label" x="180" y="32" text-anchor="middle">Code review</text>
-  <text class="label" x="278" y="106" text-anchor="start">11%</text>
+  <text class="label" x="278" y="106" text-anchor="start">10%</text>
   <text class="label" x="278" y="120" text-anchor="start">Issues</text>
-  <text class="label" x="180" y="188" text-anchor="middle">49%</text>
+  <text class="label" x="180" y="188" text-anchor="middle">47%</text>
   <text class="label" x="180" y="202" text-anchor="middle">Pull requests</text>
-  <text class="label" x="82" y="106" text-anchor="end">29%</text>
+  <text class="label" x="82" y="106" text-anchor="end">33%</text>
   <text class="label" x="82" y="120" text-anchor="end">Commits</text>
 </svg>
