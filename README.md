@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="nik-reddy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik-reddy" alt="nik-reddy" /></a> </p>
-
 <h2 align="center">GitHub Activity Overview</h2>
 <p align="center">
   <img src="assets/activity-overview.svg" alt="GitHub activity overview showing commits, issues, pull requests, and code reviews" />
