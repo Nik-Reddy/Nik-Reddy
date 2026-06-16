@@ -10,15 +10,15 @@
   <line class="axis" x1="92" y1="108" x2="268" y2="108" />
   <circle class="marker" cx="180.0" cy="101.8" r="3.4" />
   <circle class="marker" cx="186.2" cy="108.0" r="3.4" />
-  <circle class="marker" cx="180.0" cy="136.5" r="3.4" />
-  <circle class="marker" cx="158.9" cy="108.0" r="3.4" />
+  <circle class="marker" cx="180.0" cy="135.9" r="3.4" />
+  <circle class="marker" cx="158.3" cy="108.0" r="3.4" />
   <circle class="marker" cx="180" cy="108" r="3.4" />
   <text class="label" x="180" y="18" text-anchor="middle">10%</text>
   <text class="label" x="180" y="32" text-anchor="middle">Code review</text>
   <text class="label" x="278" y="106" text-anchor="start">10%</text>
   <text class="label" x="278" y="120" text-anchor="start">Issues</text>
-  <text class="label" x="180" y="188" text-anchor="middle">46%</text>
+  <text class="label" x="180" y="188" text-anchor="middle">45%</text>
   <text class="label" x="180" y="202" text-anchor="middle">Pull requests</text>
-  <text class="label" x="82" y="106" text-anchor="end">34%</text>
+  <text class="label" x="82" y="106" text-anchor="end">35%</text>
   <text class="label" x="82" y="120" text-anchor="end">Commits</text>
 </svg>
